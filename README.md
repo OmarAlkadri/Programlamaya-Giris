@@ -1,2 +1,0 @@
-# Programlamaya Giriş
- Pg
